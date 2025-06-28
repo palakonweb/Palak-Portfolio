@@ -7,7 +7,7 @@ import './index.css';
 import Skill from './components/skill';
 import Projects from './components/Projects';
 import Footer from './components/footer';
-import Contact from './pages/contact'; 
+import Contact from './pages/Contact'; 
 
 const App = () => {
   return (
